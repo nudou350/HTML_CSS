@@ -1,0 +1,86 @@
+.p1{
+	font-style: italic;
+}
+.p2{
+	font-style: oblique;
+}
+.alignCenter{
+	text-align: center;
+}
+.alignRight{
+	text-align: right;
+}
+.alignLeft{
+	text-align: left;
+}
+
+.titleEx2{
+	font-weight: bold;
+
+}
+
+.backgroundEx2{
+	background-color: #e5c573;
+}
+
+.pEx3{
+	text-align: right;
+	color: red;
+	font-size: 4em;
+	font-weight: bold;
+}
+
+.titleEx4{
+	font-size: 3em;
+	font-weight: bold;
+}
+
+.p1Ex4{
+	font-weight: bold;
+	font-size: 2em;
+}
+
+.underlineBarEx4{
+	width: 50%; height: 2px;
+    border-style: solid;
+    border-color: red;
+    background-color: red;
+}
+.underlineBarBlueEx4{
+	width: 50%; height: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+}
+.underlineBarBlueEx5{
+	width: 75%; height: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+}
+
+.titleEx5{
+	font-size: 3em;
+	font-weight: bold;
+}
+
+.p1Ex5{
+	font-size: 2em;
+	font-weight: bold;
+	text-decoration: line-through;
+}
+
+.p2Ex6{
+	font-size: 1.6em;
+	font-weight: bold;
+	text-decoration: underline;
+}	
+
+.titleEx6{
+	word-spacing: 2em;
+	font-size: 1.5em;
+}
+.listSpacingEx6{
+	word-spacing: 1.5em;
+	margin-bottom: 0.5em;
+}

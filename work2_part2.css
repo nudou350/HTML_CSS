@@ -1,0 +1,188 @@
+.alignCenter{
+	text-align: center;
+}
+.alignLeft{
+	text-align: left;
+}
+.alignRight{
+	text-align: right;
+}
+
+.titleEx1{
+	font-weight: bold;
+	font-size: 2.5em;
+}
+.p1Ex1{
+	font-size: 1.5em;
+}
+
+.dottedBorderEx1{
+	border-width: 100%;
+	height: 1em;
+	border: 2em 2em 2em 2em;
+    border-style: dotted;
+    border-color: blue;
+ }
+
+ .dashedBorderEx1{
+	border-width: 100%;
+	height: 1em;
+	border: 2em 2em 2em 2em;
+    border-style: dashed;
+    border-color: blue;
+ }
+
+ .solidBorderEx1{
+	border-width: 100%;
+	height: 1em;
+	border: 2em 2em 2em 2em;
+    border-style: solid;
+    border-color: blue;
+ }
+  .doubleBorderEx1{
+	border-width: 100%;
+	height: 1em;
+	border: 2em 2em 2em 2em;
+    border-style: double;
+    border-color: blue;
+ }
+
+  .grooveBorderEx1{
+	border-width: 100%;
+	height: 1em;
+	border: 2em 2em 2em 2em;
+    border-style: groove;
+    border-color: blue;
+ }
+  	.ridgeBorderEx1{
+	border-width: 100%;
+	height: 1em;
+	border: 2em 2em 2em 2em;
+    border-style: ridge;
+    border-color: blue;
+ }
+
+   .insetBorderEx1{
+	border-width: 100%;
+	height: 1em;
+	border: 2em 2em 2em 2em;
+    border-style: inset;
+    border-color: blue;
+ }
+ .outsetBorderEx1{
+	border-width: 100%;
+	height: 1em;
+	border: 2em 2em 2em 2em;
+    border-style: outset;
+    border-color: blue;
+ }
+
+  .noneBorderEx1{
+	border-width: 100%;
+	height: 1em;
+	border: 2em 2em 2em 2em;
+    border-style: none;
+    border-color: blue;
+ }
+  .hiddenBorderEx1{
+	border-width: 100%;
+	height: 1em;
+	border: 2em 2em 2em 2em;
+    border-style: hidden;
+    border-color: blue;
+ }
+
+  .mixedBorderEx1{
+	border-width: 100%;
+	height: 1em;
+    border-top: dotted;
+    border-left: double;
+    border-right: hidden;
+    border-bottom: solid;
+    border-color: blue;
+ }
+
+ .firstRound{
+ 	border-style: solid;
+ 	border-radius: 1.5em;
+ 	border-width: 100%;
+ 	padding: 0em 6em 1em 1em;
+ 	background-color: brown;
+ 	display: inline-block;
+ }
+
+ .secondRound{
+ 	border-style: solid;
+ 	border-radius: 1.5em;
+ 	border-width: 100%;
+ 	padding: 0em 6em 1em 1em;
+ 	background-color: white;
+ 	display: inline-block;
+ }
+
+ .thirdRound{
+ 	border-style: solid;
+ 	border-radius: 1.5em;
+ 	border-width: 100%;
+ 	padding: 0em 6em 1em 1em;
+ 	background-image: url("sea.jfif");
+ 	display: inline-block;
+ }
+
+ .border1Ex3{
+ 	border-style: solid;
+ 	border-radius: 15px 50px 30px 5px;
+ 	border-width: 100%;
+ 	height: 10vh;
+ 	padding: 0em 6em 1em 1em;
+ 	background-color: brown;
+ 	display: inline-block;
+ }
+
+ .border2Ex3{
+ 	border-style: solid;
+ 	border-radius: 15px 50px 30px;
+ 	border-width: 100%;
+ 	height: 10vh;
+ 	padding: 0em 6em 1em 1em;
+ 	background-color: brown;
+ 	display: inline-block;
+ }
+  .border3Ex3{
+ 	border-style: solid;
+ 	border-radius: 15px 50px;
+ 	border-width: 100%;
+ 	height: 10vh;
+ 	padding: 0em 6em 1em 1em;
+ 	background-color: brown;
+ 	display: inline-block;
+ }
+
+ .border1Ex4{
+ 	border-style: solid;
+ 	border-radius: 50px/15px;
+ 	border-width: 100%;
+ 	height: 10vh;
+ 	padding: 0em 6em 1em 1em;
+ 	background-color: brown;
+ 	display: inline-block;
+ }
+
+ .border2Ex4{
+ 	border-style: solid;
+ 	border-radius: 15px/50px;
+ 	border-width: 100%;
+ 	height: 10vh;
+ 	padding: 0em 6em 1em 1em;
+ 	background-color: brown;
+ 	display: inline-block;
+ }
+  .border3Ex4{
+ 	border-style: solid;
+ 	border-radius: 50%;
+ 	border-width: 100%;
+ 	height: 10vh;
+ 	padding: 0em 6em 1em 1em;
+ 	background-color: brown;
+ 	display: inline-block;
+ }
