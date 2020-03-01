@@ -1,0 +1,103 @@
+.background{
+
+	border: 2px solid black;
+	background-image: url('background.jpg');
+}
+body{
+	color: white;
+}
+
+.imgIndex,#img{
+	max-height: 20vh;
+	max-width: 20vw;
+	background-color: white;
+	margin: 20px;
+	padding: 5px
+}
+.imgPHP{
+	max-height: 20vh;
+	max-width: 20vw;
+	background-color: white;
+	margin: 20px;
+	
+}
+
+.imgPage1{
+	max-height: 40vh;
+	max-width: 40vw;
+	background-color: white;
+	margin: 20px;
+	padding: 5px
+}
+.imgPage4{
+	max-height: 40vh;
+	max-width: 40vw;
+	background-color: white;
+	margin: 20px;
+	
+}
+
+.gradientDiv{
+	border: 2px solid black;
+	height: 130px;
+	width: 800px;
+	display: -webkit-inline-box;
+	background-color: grey;
+
+}
+.alignCenter{
+	text-align: -webkit-center;
+}
+
+.gradient1{
+	height: 100px;
+	width: 150px;
+	background: linear-gradient(to right, red,green,blue);
+}
+.gradient2{
+	
+	height: 100px;
+	width: 150px;
+	background: linear-gradient(to top, red,green,blue);
+}
+.gradient3{
+
+	height: 100px;
+	width: 150px;
+	background: linear-gradient(to left top, red,green,blue);
+}
+.gradient4{
+
+	height: 100px;
+	width: 150px;
+	background: linear-gradient(to left bottom, red 40%,green 20%,blue);
+}
+
+.gradient5{
+
+	height: 100px;
+	width: 150px;
+	background: radial-gradient(red, green, blue);
+}
+
+.gradient6{
+
+	height: 100px;
+	width: 150px;
+	background: radial-gradient(ellipse, red 50% ,green 5%,blue);
+}
+.gradient7{
+
+	height: 100px;
+	width: 150px;
+	background: repeating-radial-gradient(ellipse, red , green 10%, blue 40%);
+}
+.gradient8{
+
+	height: 100px;
+	width: 150px;
+	background: radial-gradient(ellipse, red 20%,green 20%, blue 30%);
+}
+
+
+
