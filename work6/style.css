@@ -1,0 +1,78 @@
+.backgroundCiano{
+	background-color: #00FFFF;
+	padding: 2%;
+
+}
+.backgroundOrange{
+	background-color: orange;
+	padding: 2%;
+}
+.backgroundBlue{
+	background-color: blue;
+	padding: 2%;
+}
+.backgroundRed{
+	background-color: red;
+	padding: 2%;
+}
+
+.backgroundGreen{
+	background-color: green;
+	padding: 2%;
+}
+.backgroundYellow{
+	background-color: yellow;
+	padding: 2%;
+}
+
+.squareRed {
+  height: 100px;
+  width: 100px;
+  top: 100px;
+  position: absolute;
+  background-color: red;
+}
+.squareGreen {
+  height: 100px;
+  width: 100px;
+  top: 150px;
+  left: 50px;
+  position: absolute;
+  background-color: green;
+}
+.squareBlue {
+  height: 100px;
+  width: 100px;
+  top: 200px;
+  left: 100px;
+  position: absolute;
+  background-color: blue;
+}
+.squareYellow {
+  height: 100px;
+  width: 100px;
+  top: 250px;
+  left: 150px;
+  position: absolute;
+  background-color: yellow;
+}
+.container{
+	background-color: silver;
+	border: 2px solid black;
+	height: 500px;
+	width: 1050px;
+	margin: 0 auto;
+	position: relative;
+}
+.imgSize{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+
+}
+.imgSizeInternal{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+
+}
